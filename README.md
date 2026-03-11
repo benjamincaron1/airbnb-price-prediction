@@ -39,15 +39,15 @@ The dataset was cleaned and preprocessed using the following steps:
 
 - Baseline — Linear Regression
 
-MAE ≈ 48.17 €
+MAE = 48.17 €
 
-RMSE ≈ 69.31 €
+RMSE = 69.31 €
 
 - Main Model — Random Forest
 
-MAE ≈ 39.84 €
+MAE = 39.84 €
 
-RMSE ≈ 59.90 €
+RMSE = 59.90 €
 
 The Random Forest model significantly improves the baseline performance.
 
